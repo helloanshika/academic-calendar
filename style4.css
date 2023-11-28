@@ -1,0 +1,17 @@
+.x{
+    text-align: center;
+    font-size: 50px;
+    color: red;
+}
+div{
+    align-items:flex-start;
+    display:flex;
+}
+li{
+    font-size: 40px;
+    color:brown;
+    
+}
+body{
+    background-image: url(https://png.pngtree.com/background/20211217/original/pngtree-aesthetic-plain-background-with-pastel-colors-picture-image_1596087.jpg);
+}

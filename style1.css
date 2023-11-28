@@ -1,0 +1,21 @@
+.x{
+    text-align: center;
+    color: orange;
+    font-size: 100px;
+}
+.y{
+    text-align: center;
+    font-size: 50px;
+    color:blueviolet;
+}
+div{
+    size: 50px;
+}
+a{
+    font-size: 20px;
+    color: blue;
+    text-decoration: none;
+}
+body{
+    background-image: url(https://png.pngtree.com/background/20211217/original/pngtree-aesthetic-plain-background-with-pastel-colors-picture-image_1596087.jpg);
+}

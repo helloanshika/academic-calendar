@@ -1,0 +1,20 @@
+.x{
+    text-align: center;
+    color:yellowgreen;
+    font-size: 80px;
+}
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc0hvIszjBSpaud4663pve96w4TSvxfh9unA&usqp=CAU);
+   
+}
+a{
+    font-size: 25px;
+    color: black;
+}
+div{
+    align-items:flex-start;
+    display:flex;
+}
+li{
+    font-size: 40px;
+}

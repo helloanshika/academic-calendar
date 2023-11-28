@@ -1,0 +1,20 @@
+.x{
+    text-align: center;
+    color: blue;
+}
+.y{
+    text-align: center;
+    color: blue;
+}
+   
+div{
+    align-items:flex-start;
+    display:flex;
+}
+li{
+    font-size: 35px;
+    color: blueviolet;
+}
+body{
+    background-image: url('https://cdn.pixabay.com/photo/2014/01/23/21/33/blue-250770_640.jpg');
+}
